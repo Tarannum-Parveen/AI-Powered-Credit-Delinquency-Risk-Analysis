@@ -1,4 +1,4 @@
-# AI-Powered Credit Delinquency Risk Analysis
+# TaTa-Gen-AI-Powered Credit Delinquency Risk Analysis
 
 ## Project Overview
 
