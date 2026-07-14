@@ -210,13 +210,11 @@ AI-Powered-Credit-Delinquency-Risk-Analysis/
 
 ---
 
-## Screenshots
+## Images
 
-Add screenshots of:
+Images of:
 
-- Exploratory Data Analysis
 - Power BI Dashboard
-- Logistic Regression Results
 - AI Collections Workflow
 - Final PowerPoint Presentation
 
@@ -227,7 +225,7 @@ Add screenshots of:
 1. Clone this repository
 
 ```
-git clone https://github.com/yourusername/AI-Powered-Credit-Delinquency-Risk-Analysis.git
+git clone https://github.com/Tarannum-Parveen/AI-Powered-Credit-Delinquency-Risk-Analysis.git
 ```
 
 2. Install required libraries
